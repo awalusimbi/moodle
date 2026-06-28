@@ -166,3 +166,5 @@ External functions are provided in `classes/external/` and registered in `db/ser
 | **Output** | One‑ or two‑sided PDF ID card with photo, barcode, QR verification code; uploaded template **or** themed default card |
 | **Data** | Any standard user field or custom profile field, mapped dynamically |
 | **Who can use** | `local/studentid_print:view` / `:print` (default: Manager) |
+
+The full code and custoamzition is done at a price @ allanwalusimbi.aw@gmail.com
